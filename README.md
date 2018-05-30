@@ -2,7 +2,7 @@
 
 #### Introduction
 
-  This Hazel rule helps you to collect your screenshot(Support system screenshot & Teampaper Snap) into one place. After taking screenshots, two windows will open for you, the only thing you need to do is **Drag**.
+  This Hazel rule helps you to collect your screenshot(Support system screenshot & Teampaper Snap) into one place. After taking screenshots, two windows will open for you(AirDrop window and the Finder window of screenshot just taked), the only thing you need to do is **Drag**.
 
 #### How to use it
 
