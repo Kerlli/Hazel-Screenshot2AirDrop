@@ -13,7 +13,7 @@
 
 #### 介绍
   
-  这个 Hazel 规则帮助你整理你的截图(支持系统或Teampaper Snap)到一处，截图后会为你自动打AirDrop和已选中的截图，你只需要做的只是 **拖动**。
+  这个 Hazel 规则帮助你整理你的截图(支持系统或Teampaper Snap)到一处，截图后会为你自动打开AirDrop和已选中的截图窗口，你只需要做的只是 **拖动**。
 
 #### 使用方法
 
@@ -21,4 +21,3 @@
   2. 创建一个用于收集截图的文件夹
   3. 编辑'*Do the following to the matched file or folder:*‘下的第一行，替换为你刚刚创建的文件夹
   4. 创建截图，你会看到两个新打开的窗口，仅需 *Drag and Drop*，enjoy it ！
-  
