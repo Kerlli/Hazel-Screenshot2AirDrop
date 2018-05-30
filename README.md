@@ -8,7 +8,7 @@
 
   1. Download it and Import.
   2. Create a folder to collect your screenshots.
-  3. Edit the first line below '*Do the following to the matched file or folder:*‘, replace the folder you just created.
+  3. Edit the first line below '*Do the following to the matched file or folder:*', replace the folder you just created.
   4. Take a screenshot then you can see 2 new window opened, just *Drag and Drop*, enjoy !
 
 #### 介绍
@@ -19,5 +19,5 @@
 
   1. 下载规则并导入
   2. 创建一个用于收集截图的文件夹
-  3. 编辑'*Do the following to the matched file or folder:*‘下的第一行，替换为你刚刚创建的文件夹
+  3. 编辑'*Do the following to the matched file or folder:*'下的第一行，替换为你刚刚创建的文件夹
   4. 创建截图，你会看到两个新打开的窗口，仅需 *Drag and Drop*，enjoy it ！
